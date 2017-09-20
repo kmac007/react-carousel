@@ -1,0 +1,14 @@
+{
+  "name": "react-carousel",
+  "version": "1.0.0",
+  "description": "react mobile carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "carousel"
+  ],
+  "author": "robbchan",
+  "license": "MIT"
+}
